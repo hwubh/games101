@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\admin\\Downloads\\Programs\\opencv\\build\\include",
+                "C:\\Program Files (x86)\\Eigen3\\include\\eigen3\\Eigen",
+                "C:\\Users\\admin\\Downloads\\Programs\\opencv\\build\\x64\\mingw\\install\\include",
+                "C:\\Users\\admin\\Downloads\\Programs\\opencv\\build\\x64\\mingw\\install\\include\\opencv2"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:\\Users\\admin\\Downloads\\Compressed\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
